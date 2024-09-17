@@ -33,6 +33,12 @@ def greater_numbers(num_1, num_2):
 
     return result
 
+
+def power_numbers(num_1):
+    result = num_1 * num_1
+    return result
+
+
 def multi_pi(num_1):
     
     result = num_1 * 3.1415926535 #multiply a number by 10 digit Pi
