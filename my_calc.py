@@ -23,3 +23,12 @@ def divide_numbers(num_1, num_2):
     result = num_2 / num_1
 
     return result
+
+def greater_numbers(num_1, num_2):
+
+    if(num_1 > num_2):
+        result = num_1
+    else:
+        result = num_2
+
+    return result
